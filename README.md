@@ -2,11 +2,11 @@
 
 Prototype implementation of the [paper](https://proceedings.mlr.press/v139/fumero21a.html) *"Learning disentangled representations via product manifold projection."* by Fumero, Marco, Luca Cosmo, Simone Melzi, and Emanuele Rodolà.  Published at In International conference on machine learning (ICML), PMLR, 2021.
 
-![alt text](https://github.com/marc0git/PMPdisentanglement/blob/master/teaser_pmp.png)
+![alt text](https://github.com/marc0git/PMPdisentanglement/teaser_pmp.png)
 
 If you find our code or paper useful, you can cite at:
 
-
+```
 @InProceedings{pmlr-v139-fumero21a,
   title = 	 {Learning disentangled representations via product manifold projection},
   author =       {Fumero, Marco and Cosmo, Luca and Melzi, Simone and Rodola, Emanuele},
@@ -21,7 +21,4 @@ If you find our code or paper useful, you can cite at:
   pdf = 	 {http://proceedings.mlr.press/v139/fumero21a/fumero21a.pdf},
   url = 	 {https://proceedings.mlr.press/v139/fumero21a.html},
 }
-
-
-
-
+```
