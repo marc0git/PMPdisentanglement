@@ -1,4 +1,4 @@
-# PMPdisentanglement
+# Product Manifold Projection Disentanglement
 
 Prototype implementation of the [paper](https://proceedings.mlr.press/v139/fumero21a.html) *"Learning disentangled representations via product manifold projection."* by Fumero, Marco, Luca Cosmo, Simone Melzi, and Emanuele Rodolà.  Published at In International conference on machine learning (ICML), PMLR, 2021.
 
