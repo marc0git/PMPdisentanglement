@@ -1,23 +1,25 @@
-# Latent Functional Maps: a spectral framework for representation alignment
+# Product Manifold Projection Disentanglement
 
-Official implementation of the [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/79be41d858841037987964e3f5caf76d-Abstract-Conference.html) *"Latent Functional Maps: a spectral framework for representation alignment."* by Marco Fumero, Marco Pegoraro, Valentino Maiorca, Francesco Locatello and Emanuele Rodolà.  Published at The Thirty-eighth Annual Conference on Neural Information Processing Systems, NeurIPS, 2024.
+Prototype implementation of the [paper](https://proceedings.mlr.press/v139/fumero21a.html) *"Learning disentangled representations via product manifold projection."* by Fumero, Marco, Luca Cosmo, Simone Melzi, and Emanuele Rodolà.  Published at In International conference on machine learning (ICML), PMLR, 2021.
 
+![alt text](https://github.com/marc0git/PMPdisentanglement/blob/main/teaser_pmp.png)
 
 
 
 If you find our code or paper useful, please cite it at:
 
 ```
-@inproceedings{NEURIPS2024_79be41d8,
- author = {Fumero, Marco and Pegoraro, Marco and Maiorca, Valentino and Locatello, Francesco and Rodol\`{a}, Emanuele},
- booktitle = {Advances in Neural Information Processing Systems},
- editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
- pages = {66178--66203},
- publisher = {Curran Associates, Inc.},
- title = {Latent Functional Maps: a spectral framework for representation alignment},
- url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/79be41d858841037987964e3f5caf76d-Paper-Conference.pdf},
- volume = {37},
- year = {2024}
+ @InProceedings{pmlr-v139-fumero21a,
+   title =   {Learning disentangled representations via product manifold projection},
+   author =       {Fumero, Marco and Cosmo, Luca and Melzi, Simone and Rodola, Emanuele},
+   booktitle =   {Proceedings of the 38th International Conference on Machine Learning},
+   pages =   {3530--3540},
+   year =    {2021},
+   editor =      {Meila, Marina and Zhang, Tong},
+   volume =      {139},
+   series =      {Proceedings of Machine Learning Research},
+   month =   {18--24 Jul},
+   publisher =    {PMLR},
+   pdf =     {http://proceedings.mlr.press/v139/fumero21a/fumero21a.pdf},
 }
-
 ```
